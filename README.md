@@ -20,6 +20,10 @@ Below gives us the accurate results:
     1.Using Web-cam I have collected images for awake and drowsy
     2.These images are passed yolov5s model for training purpose and accuracy is very good when compared to opencv dlib and face-segmentation library.
     
+![image](https://user-images.githubusercontent.com/26068822/189256448-8ff23609-9cd8-4006-8ba5-250a46e0f302.png)
+![image](https://user-images.githubusercontent.com/26068822/189256512-7a0c5522-7783-498d-8780-c7045fb326c2.png)
+
+    
     
 
 
